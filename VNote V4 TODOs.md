@@ -1,2 +1,3 @@
 # VNote V4 TODOs
-## UI freezes with git sync on file save
+* UI freezes with git sync on file save
+*
