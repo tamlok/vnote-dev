@@ -1,9 +1,18 @@
 {
   "createdUtc": 1780454384113,
-  "files": [],
+  "files": [
+    {
+      "createdUtc": 1780454405088,
+      "id": "33d60308-1dfb-4bea-b72b-5bb460f281f1",
+      "metadata": {},
+      "modifiedUtc": 1780454405088,
+      "name": "VNote V4 TODOs.md",
+      "tags": []
+    }
+  ],
   "folders": [],
   "id": "2c276f37-bdd0-46d5-86c0-fa01f2b1e559",
   "metadata": {},
-  "modifiedUtc": 1780454384113,
+  "modifiedUtc": 1780454405088,
   "name": "."
 }
