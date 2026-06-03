@@ -1,0 +1,14 @@
+{
+  "assetsFolder": "vx_assets",
+  "description": "VNote development notes",
+  "id": "3651c014-1fc4-432c-8276-83d11a227357",
+  "ignored": [],
+  "metadata": {},
+  "name": "VNote Development",
+  "syncBackend": "git",
+  "syncEnabled": true,
+  "syncIntervalSeconds": 60,
+  "syncRemoteUrl": "https://github.com/tamlok/vnote-dev",
+  "tags": [],
+  "tagsModifiedUtc": 0
+}
