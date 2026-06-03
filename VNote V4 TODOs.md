@@ -1,2 +1,2 @@
 # VNote V4 TODOs
-## Perf regression with git
+## Perf regression with git sync on fi
