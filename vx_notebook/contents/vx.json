@@ -8,11 +8,19 @@
       "modifiedUtc": 1780454405088,
       "name": "VNote V4 TODOs.md",
       "tags": []
+    },
+    {
+      "createdUtc": 1781150735686,
+      "id": "cf4d8554-00fb-4e9f-a0ed-03a8a78929e3",
+      "metadata": {},
+      "modifiedUtc": 1781150735686,
+      "name": "staging-marker.json",
+      "tags": []
     }
   ],
   "folders": [],
   "id": "2c276f37-bdd0-46d5-86c0-fa01f2b1e559",
   "metadata": {},
-  "modifiedUtc": 1780454405088,
+  "modifiedUtc": 1781150735686,
   "name": "."
 }
